@@ -49,7 +49,7 @@ const newGame = function () {
     .classList.add('player--active');
 };
 
-// Cal dat NewGame
+// Initialise - Call NewGame
 newGame();
 
 //Function to switch Active Player
