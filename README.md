@@ -3,6 +3,9 @@ This with created with the udemy course by Jonas Schmedtmann
 
 A 2 player dice game, where the goal is to bank up to 20 points before your opponent.
 
+This can be previewed here usinh htmlpreview:
+https://htmlpreview.github.io/?https://github.com/FoxNineOne/Dice-Game/blob/main/index.html
+
 Roll the dice.
 If the dice returns a 2-6, this will add to your current score, and you get to roll again.
 Roll a 1, and you lose your current score and your turn, and player 2 takes their turn.
